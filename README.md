@@ -16,7 +16,9 @@
       📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
     </p>
   </div>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150" style="border-radius: 10px;">
+</p>
 </div>
 
 
