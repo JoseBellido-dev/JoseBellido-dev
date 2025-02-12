@@ -20,12 +20,6 @@
 </p>
 </div>
 
-
-
-
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
 </p>
@@ -56,7 +50,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
