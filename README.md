@@ -3,18 +3,19 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p align="right">
-  <img src="[https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752](https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg)" alt="Yo">
-</p>
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
+    💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
+    🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.<br>
+    🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.<br>
+    ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.<br>
+    💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
+    ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.<br>
+    📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150" style="border-radius: 10px;">
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
