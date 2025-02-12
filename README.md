@@ -39,8 +39,9 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/a63c3939-22bd-4879-9148-0c49fedb3da5" alt="Yo" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/a7008413-1746-4aaf-8c80-bcfdfb1559af" alt="Nigth1" width="250" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="280" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/9835b2b3-0c7d-419b-87e9-c647ad2209d8" alt="Night2" width="250" style="border-radius: 10px;">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -61,10 +62,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
-</p>
 
 ### 🗃 &nbsp;Databases
 
@@ -131,10 +128,14 @@
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
+</p>
+
 ### 🦝 &nbsp;Thank you! ...
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="200" style="border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="200" style="border-radius: 10px;">
 </p>
