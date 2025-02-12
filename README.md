@@ -130,7 +130,7 @@
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🦝 &nbsp;Thank you! ...
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
