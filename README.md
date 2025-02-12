@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-------------red" alt="lineas">
+  <img src="https://img.shields.io/badge/-------------blue" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
-  <img src="https://img.shields.io/badge/-------------red" alt="lineas">
+  <img src="https://img.shields.io/badge/-------------blue" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
-  <img src="https://img.shields.io/badge/-------------red" alt="lineas">
+  <img src="https://img.shields.io/badge/-------------blue" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
-  <img src="https://img.shields.io/badge/-------------red" alt="lineas">
+  <img src="https://img.shields.io/badge/-------------blue" alt="lineas">
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
