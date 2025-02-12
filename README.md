@@ -3,8 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
     <p>
       👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
