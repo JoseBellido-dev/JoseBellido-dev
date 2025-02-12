@@ -1,10 +1,10 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2 align="left">Hello! I'm José Bellido &lt;Developer&gt;👨🏻‍💻</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
 <div style="display: flex; align-items: center;">
+
   <div style="flex: 1;">
+    <h2>👤 About Me</h2>
     <p>
       👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Bangalore as Backend Developer.<br>
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
@@ -16,10 +16,13 @@
       📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
     </p>
   </div>
+
   <div>
-    <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150"; float: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px; margin-left: 20px;">
   </div>
+
 </div>
+
 
 
 
