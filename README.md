@@ -2,7 +2,7 @@
 <h2 align="left">Hello! I'm José Bellido &lt;Developer&gt;👨🏻‍💻</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cc6e8b0-736e-45c0-a519-3d36e44b0633" alt="CatWhite">
+  <img src="https://github.com/user-attachments/assets/8cc6e8b0-736e-45c0-a519-3d36e44b0633" alt="CatWhite" witdh="100" style="border-radius: 10px">
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
