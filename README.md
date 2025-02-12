@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/-------------red" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
 </p>
+
 ### 👨🏻‍💻 &nbsp;About Me
+
 <div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <p>
