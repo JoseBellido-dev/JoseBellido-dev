@@ -133,5 +133,5 @@
 ### 🐍 &nbsp;That's How Commits move ...
 
 <p align="center">
-  <img src="cute-anime-boy-9](https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
 </p>
