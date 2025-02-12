@@ -39,9 +39,8 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
   <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/a63c3939-22bd-4879-9148-0c49fedb3da5" alt="Yo" width="200" style="border-radius: 10px;">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -135,5 +134,7 @@
 ### 🦝 &nbsp;Thank you! ...
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="Yo" width="200" style="border-radius: 10px;">
 </p>
