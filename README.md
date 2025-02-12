@@ -32,9 +32,9 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7008413-1746-4aaf-8c80-bcfdfb1559af" alt="Nigth1" width="250" style="border-radius: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="280" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/9835b2b3-0c7d-419b-87e9-c647ad2209d8" alt="Night2" width="250" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/a7008413-1746-4aaf-8c80-bcfdfb1559af" alt="Nigth1" width="150" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="170" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/9835b2b3-0c7d-419b-87e9-c647ad2209d8" alt="Night2" width="150" style="border-radius: 10px;">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -99,26 +99,18 @@
 
 ### 🎖 &nbsp;My Badges 
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 
 ### 📜 &nbsp;My Articles
 
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://pe.linkedin.com/in/jose-bellido-chavarria"><img src="https://img.shields.io/badge/-JoseBellidodev-skyblue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jbellido@intellisoftsa.com"><img src="https://img.shields.io/badge/-JoseBellidodev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jbellido@intellisoftsa.com"><img src="https://img.shields.io/badge/-JoseBellidodev-blue?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -128,7 +120,7 @@
 ### 🦝 &nbsp;Thank you! ...
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="200" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=200 style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="100" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/caf1e7b3-544e-4d0e-a56c-c8492bc3fa53" alt="AnimeBoy" width=100 style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/e00cf830-0b4a-4c4e-8628-98dee8d6b762" alt="CatParty" width="100" style="border-radius: 10px;">
 </p>
