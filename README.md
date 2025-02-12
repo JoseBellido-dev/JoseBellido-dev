@@ -37,7 +37,7 @@
     </p>
   </div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/ca7a0992-d373-401e-afe1-53beeea4c654" alt="CatRolling" width="200" style="border-radius: 10px;">
   <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
   
 </p>
