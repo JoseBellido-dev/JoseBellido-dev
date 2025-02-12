@@ -8,10 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <p>
-      👨‍💻 &nbsp;I'm currently working at Intellisoft as a junior developer in the I+D area.<br>
+      👨‍💻 &nbsp;I'm currently work at Intellisoft as a junior developer in the I+D area.<br>
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
       🎓 &nbsp;I'm currently studying Software Engineering at the Universidad Tecnológica del Perú (UTP).<br>
       🌱 &nbsp;I'm on track for learning more about the world of programming.<br>
@@ -20,10 +20,6 @@
       📄 &nbsp;Please have a look at my résumé for more details about me. I'm open to feedback and suggestions!
     </p>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="50" style="border-radius: 10px;">
-  </div>
-</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
 </p>
