@@ -6,14 +6,13 @@
 <div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <p>
-      👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
+      👨‍💻 &nbsp;I'm currently work at Intellisoft as a junior developer in the I+D area.<br>
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-      🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.<br>
-      🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.<br>
-      ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.<br>
-      💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-      ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.<br>
-      📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
+      🎓 &nbsp;I'm currently studying Software Engineering at the Universidad Tecnológica del Perú (UTP).<br>
+      🌱 &nbsp;I'm on track for learning more about the world of programming.<br>
+      ✍️ &nbsp;In my free time, I enjoy playing video games, listening to music, and researching.<br>
+      ✉️ &nbsp;You can shoot me an email at jbellido@intellisoftsa.com! I'll try to respond as soon as I can.<br>
+      📄 &nbsp;Please have a look at my résumé for more details about me. I'm open to feedback and suggestions!
     </p>
   </div>
 <p align="center">
