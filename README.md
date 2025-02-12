@@ -1,9 +1,9 @@
 <h2 align="center">Hello! I'm José Bellido &lt;Developer&gt;👨🏻‍💻</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cc6e8b0-736e-45c0-a519-3d36e44b0633" alt="CatWhite" width="100" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/4d5302c7-f88c-415d-b304-dd7f17ee1ffa" alt="CatWhite" width="100" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/4d5302c7-f88c-415d-b304-dd7f17ee1ffa" alt="CatWhite" width="100" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/8cc6e8b0-736e-45c0-a519-3d36e44b0633" alt="CatWhite" width="80" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/4d5302c7-f88c-415d-b304-dd7f17ee1ffa" alt="CatWhite" width="80" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/4d5302c7-f88c-415d-b304-dd7f17ee1ffa" alt="CatWhite" width="80" style="border-radius: 10px;">
 </p>
 
 <p align="center">
