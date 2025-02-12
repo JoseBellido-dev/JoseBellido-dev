@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <p>
       👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
