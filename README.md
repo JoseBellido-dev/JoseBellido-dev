@@ -5,7 +5,6 @@
   <img src="https://github.com/user-attachments/assets/4d5302c7-f88c-415d-b304-dd7f17ee1ffa" alt="CatWhite" width="100" style="border-radius: 10px;">
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
 <p align="left">
   <img src="https://img.shields.io/badge/-------------red" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/-------------red" alt="lineas">
   <img src="https://img.shields.io/badge/-------------white" alt="lineas">
 </p>
+### 👨🏻‍💻 &nbsp;About Me
 <div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <p>
