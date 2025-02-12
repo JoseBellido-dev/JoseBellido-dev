@@ -15,8 +15,8 @@
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
       🎓 &nbsp;I'm currently studying Software Engineering at the Universidad Tecnológica del Perú (UTP).<br>
       🌱 &nbsp;I'm on track for learning more about the world of programming.<br>
-      <p aling="left">
-        <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="200" style="border-radius: 10px;">
+      <p aling="right">
+        <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo1" width="100" style="border-radius: 10px;">
       </p>
       ✍️ &nbsp;In my free time, I enjoy playing video games, listening to music, and researching.<br>
       ✉️ &nbsp;You can shoot me an email at jbellido@intellisoftsa.com! I'll try to respond as soon as I can.<br>
