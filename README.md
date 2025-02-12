@@ -32,9 +32,9 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7008413-1746-4aaf-8c80-bcfdfb1559af" alt="Nigth1" width="150" style="border-radius: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="170" style="border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/9835b2b3-0c7d-419b-87e9-c647ad2209d8" alt="Night2" width="150" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/a7008413-1746-4aaf-8c80-bcfdfb1559af" alt="Nigth1" width="100" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="115" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/9835b2b3-0c7d-419b-87e9-c647ad2209d8" alt="Night2" width="100" style="border-radius: 10px;">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
