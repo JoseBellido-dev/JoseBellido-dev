@@ -14,7 +14,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 <p aling="center">
-  <ima src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
+  <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
