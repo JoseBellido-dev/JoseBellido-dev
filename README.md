@@ -3,8 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div style="overflow: hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
+  <p>
     👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
     💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
     🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.<br>
@@ -13,9 +14,9 @@
     💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
     ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.<br>
     📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150" style="border-radius: 10px;">
+  </p>
 </div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752" alt="Pacman">
