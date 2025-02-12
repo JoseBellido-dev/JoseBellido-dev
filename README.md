@@ -3,10 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
     <p>
-      👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.<br>
+      👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Bangalore as Backend Developer.<br>
       💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
       🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.<br>
       🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.<br>
@@ -16,8 +16,11 @@
       📄 &nbsp;Please have a look at my <a href="https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
     </p>
   </div>
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="150" style="border-radius: 10px; margin-left: 20px;">
+  <div>
+    <img src="ruta-de-tu-imagen.png" alt="Yo" width="150" style="border-radius: 10px; margin-left: 20px;">
+  </div>
 </div>
+
 
 
 
