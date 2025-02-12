@@ -3,6 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<p align="right">
+  <img src="[https://github.com/user-attachments/assets/79557b05-1887-4869-8e4b-38875121a752](https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg)" alt="Yo">
+</p>
+
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
