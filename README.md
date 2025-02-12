@@ -16,7 +16,7 @@
       🎓 &nbsp;I'm currently studying Software Engineering at the Universidad Tecnológica del Perú (UTP).<br>
     </p>
     <p align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg"
+      <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" alt="Yo" width="50" style="border-radius: 10px;">
     </p>
     <p>
       🌱 &nbsp;I'm on track for learning more about the world of programming.<br>
