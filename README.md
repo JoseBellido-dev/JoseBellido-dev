@@ -7,7 +7,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left">
-  <img src="https://img.shields.io/badge/-------------------------------------------------------------------------red" alt="lineas"
+  <img src="https://img.shields.io/badge/-------------------------------------------------------------------------red" alt="lineas">
+  <img src="https://img.shields.io/badge/-------------------------------------------------------------------------black" alt="lineas">
 </p>
 <div style="display: flex; align-items: left;">
   <div style="flex: 1;">
